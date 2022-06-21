@@ -1,0 +1,7 @@
+
+
+django-admin startproject django_course_site
+
+python3 manage.py runserver
+
+stehen geblieben bei 1:30:48
